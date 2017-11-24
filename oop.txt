@@ -1,0 +1,10 @@
+constants
+interfaces
+enumerators
+abstract class - base class from which other classes extend
+generic classes
+driver classes
+upward and downward casting
+static
+final - preents a method from being subclassed
+protected, private, public, k
